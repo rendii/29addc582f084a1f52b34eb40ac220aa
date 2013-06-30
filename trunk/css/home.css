@@ -1,0 +1,30 @@
+a:link{outline:none;color:#91c245;text-decoration:none}
+a:visited{color:#333;text-decoration:none}
+a:hover,a:active{color:#91c245;text-decoration:none}
+#footwrap{display:none}
+#PCNav{background:#333}
+#footer{background:rgba(0,0,0,0.50);overflow:hidden;padding:10px;font-size:11px;font-family:&quot;Myriad Pro&quot;,&quot;Myriad Web&quot;,Myriad,&quot;Segoe UI&quot;,Calibri,Arial,sans-serif;color:#91c425}
+#footer a{color:#91c425}
+#footer a.link{color:#91c425}
+#footer .footer-kiri{float:left}
+#footer .footer-kanan{float:right;text-align:right}
+.list-entries{margin-top:30px;margin-bottom:15px;width:270px;float:left;font-size:11px;width:295px}
+.list-entries{border:1px solid #444;background:#1fa61f;margin-left:30px}
+.list-entries ul,.list-entries li{margin:0;padding:0;list-style:none}
+.list-entries li{padding:1em;border-bottom:1px solid #444;padding:5px}
+.list-entries .main-title{color:#ddd}
+.list-entries .main-title h4{display:block;font:inherit;font-weight:bold;padding:.5em 1em;background-color:#333;color:#ddd;margin:0;line-height:normal}
+.list-entries .title a{font-weight:bold;font-size:110%;text-decoration:none;color:#333}
+.list-entries .title a:hover{text-decoration:underline}
+.list-entries img,.list-entries .fake-img{border:none;background-color:#333;margin:0 1em 0 0;padding:0;float:left}
+.list-entries .summary{overflow:hidden}
+.list-entries .more-link{border-bottom:none}
+.list-entries .more-link a{display:block;line-height:2em;height:2em;overflow:hidden;text-decoration:none;background-color:#333;padding:0 .6em;position:relative;font-weight:bold;color:white}
+.list-entries .more-link a:after{content:&quot;&quot;;width:0;height:0;position:absolute;top:50%;right:.3em;border:4px solid transparent;border-left-color:white;margin-top:-4px}
+.list-entries .more-link a:hover{background-color:#333}
+.post{margin:0 10px 10px 0 !important;float:left !important;width:412px;height:145px;overflow:hidden;display:inline}
+#sidebar{background:transparent;float:right;width:0px;display:none;overflow:hidden}
+#banner-space{display:none}
+#header-wrapper{display:none}
+body{background:#333 url(https://cdn-penyolongan.googlecode.com/svn/trunk/img/BGBodyRetro.jpg) fixed;overflow:hidden}
+#hompager{Display:none}
