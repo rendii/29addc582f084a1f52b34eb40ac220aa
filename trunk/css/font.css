@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'BebasLah';
+  font-style: normal;
+  font-weight: 400;
+  src: local('BebasLah'), local('BebasLah'), url(https://cdn-penyolongan.googlecode.com/svn/trunk/fonts/BebasLah-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Montserrat Light'), local('Montserrat-Light'), url(https://cdn-penyolongan.googlecode.com/svn/trunk/fonts/montserrat-light-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://cdn-penyolongan.googlecode.com/svn/trunk/fonts/montserrat-regular-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Montserrat Italic'), local('Montserrat-It'), url(https://cdn-penyolongan.googlecode.com/svn/trunk/fonts/kangismet.net/fonts/montserrat-regularitalic-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Montserrat Semibold'), local('Montserrat-Semibold'), url(https://cdn-penyolongan.googlecode.com/svn/trunk/fonts/montserrat-semibold-webfont.woff) format('woff');
+}
