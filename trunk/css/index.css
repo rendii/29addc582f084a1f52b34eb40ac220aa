@@ -1,8 +1,0 @@
-.post{opacity:0.7;filter:alpha(opacity=70);-o-transition:.5s ease-out;-moz-transition:.5s ease-out;-webkit-transition:.5s ease-out;background-color:#eaeaea;border:1px solid #333;margin:0 10px 10px 0 !important;float:left !important;width:412px;height:130px;overflow:hidden;display:inline;color:#555;font-size:11px}
-.post h2.post-title,.post h1.post-title{border-bottom:1px solid #333;color:#333;font:bold 12px Arial;height:30px;overflow:hidden;text-transform:none}
-.post h2.post-title{font-size:13px;width:412px;height:10px}
-#kotak-posting{width:880px;word-wrap:break-word}
-.post:hover{opacity:1.0;-moz-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}
-.breadcrumbs{Display:none}
-.sidebar{opacity:0.7;filter:alpha(opacity=70);-o-transition:.5s ease-out;-moz-transition:.5s ease-out;-webkit-transition:.5s ease-out}
-.sidebar:hover{opacity:1.0;-moz-transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}
