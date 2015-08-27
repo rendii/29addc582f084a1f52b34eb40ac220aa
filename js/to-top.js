@@ -1,1 +1,0 @@
-$(window).scroll(function(){if($(this).scrollTop()>100{$("#backtop").removeAttr("href");$("#backtop").stop().animate({bottom:"-3",right:"0"},{duration:800,queue:false})}else{$("#backtop").stop().animate({bottom:"-15",right:"0"},{duration:1000,queue:false})}});$(function(){$("#backtop").click(function(){$("html, body").animate({scrollTop:0},"slow");return false})});
